@@ -1,6 +1,7 @@
 # Data-Analis-Global-Startup-2000-2014-Training#
+________________________________________
 Background Problem
-Dalam proyek ini, saya membuat Business Intelligence (BI) dashboard menggunakan Tableau untuk menganalisis tren startup global dari tahun 2000 hingga 2014. Data yang digunakan cukup besar dan memiliki kompleksitas tinggi, mencakup berbagai aspek seperti jumlah startup, jumlah investor, total pendanaan, status startup, serta distribusi pendanaan berdasarkan kategori pasar dan jenis pendanaan. Beberapa permasalahan yang dihadapi dalam proyek ini antara lain:
+Saya membuat Business Intelligence (BI) dashboard menggunakan Tableau untuk menganalisis tren startup global dari tahun 2000 hingga 2014. Data yang digunakan cukup besar dan memiliki kompleksitas tinggi, mencakup berbagai aspek seperti jumlah startup, jumlah investor, total pendanaan, status startup, serta distribusi pendanaan berdasarkan kategori pasar dan jenis pendanaan. Beberapa permasalahan yang dihadapi dalam proyek ini antara lain:
 1.	Volume Data yang Besar: Dataset yang digunakan cukup besar, menyebabkan konsumsi memori yang tinggi saat diproses di Tableau.
 2.	Kompleksitas Visualisasi: Data harus disajikan dalam format yang mudah dipahami tanpa mengorbankan detail analisis.
 3.	Pengolahan Data: Diperlukan transformasi data sebelum divisualisasikan untuk memastikan akurasi dan relevansi insight.
