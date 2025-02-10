@@ -1,35 +1,36 @@
-# Data-Analis-Global-Startup-2000-2014-Training#
+# Data-Analist-Global-Startup-2000-2014-Training#
 ________________________________________
-Link Dataset berikut
+Dataset link below
 https://public.tableau.com/app/sample-data/crunchbase_monthly_export_d43b4klo2ade53.xlsx
 ________________________________________
-Fokus pada latihan analisis ini yaitu membuat Business Intelligence (BI) dashboard menggunakan Tableau untuk menganalisis tren startup global dari tahun 2000 hingga 2014. Data yang digunakan cukup besar dan memiliki kompleksitas tinggi, mencakup berbagai aspek seperti jumlah startup, jumlah investor, total pendanaan, status startup, serta distribusi pendanaan berdasarkan kategori pasar dan jenis pendanaan. Beberapa permasalahan yang dihadapi dalam proyek ini antara lain:
-1.	Volume Data yang Besar: Dataset yang digunakan cukup besar, menyebabkan konsumsi memori yang tinggi saat diproses di Tableau.
-2.	Kompleksitas Visualisasi: Data harus disajikan dalam format yang mudah dipahami tanpa mengorbankan detail analisis.
-3.	Pengolahan Data: Diperlukan transformasi data sebelum divisualisasikan untuk memastikan akurasi dan relevansi insight.
-4.	Pemilihan KPI yang Tepat: Harus menentukan metrik yang paling relevan untuk menggambarkan performa startup dan investasi.
+The focus of this analysis exercise is to create a Business Intelligence (BI) dashboard using Tableau to analyze global startup trends from 2000 to 2014. The data used is quite large and has high complexity, covering various aspects such as the number of startups, number of investors, total funding, startup status, as well as funding distribution by market category and funding type. Some of the problems faced in this project include:
+1.	Large Data Volume: The dataset used is quite large, causing high memory consumption when processed in Tableau.
+2.	Visualization Complexity: The data must be presented in an easy-to-understand format without sacrificing the details of the analysis.
+3.	Data Processing: Data transformation is required before visualization to ensure accuracy and relevance of insights.
+4.	Choosing the Right KPIs: Must determine the most relevant metrics to illustrate startup performance and investment.
+________________________________________
 Task
-Tujuan dari proyek ini adalah:
-1.	Membuat dashboard interaktif yang dapat memberikan wawasan mendalam terkait tren startup.
-2.	Memvisualisasikan data secara efektif untuk membantu analisis dan pengambilan keputusan.
-3.	Mengidentifikasi pola investasi dan performa startup berdasarkan jenis pendanaan, industri, dan wilayah.
-4.	Mengoptimalkan performa dashboard agar tetap responsif meskipun menggunakan dataset yang besar.
+The objectives of this project are:
+1.	Create an interactive dashboard that can provide deep insights into startup trends.
+2.	Visualize data effectively to aid analysis and decision making.
+3.	Identify investment patterns and startup performance by funding type, industry, and region.
+4.	Optimize dashboard performance to remain responsive even when using large datasets.
 ________________________________________
 Insight
-Dari hasil analisis, beberapa insight yang diperoleh antara lain:
-1.	Pendanaan Tertinggi oleh Startup: Clearwire mendapatkan pendanaan tertinggi sebesar $5,7 miliar, diikuti oleh sigmacare, Facebook, Carestream, dan Flipkart.
-2.	Jenis Pendanaan Dominan: Venture capital adalah jenis pendanaan terbesar dengan total $14,5 miliar, menunjukkan bahwa investor lebih cenderung memberikan pendanaan jangka panjang untuk startup yang memiliki potensi pertumbuhan tinggi.
-3.	Industri dengan Pendanaan Tertinggi: Industri Bioteknologi memiliki pendanaan tertinggi sebesar $41,4 miliar, diikuti oleh Software dan Clean Technology.
-4.	Sebagian Besar Startup Masih Beroperasi: Dari total 34.823 startup, sekitar 85,5% masih beroperasi, sementara sisanya telah diakuisisi atau tutup.
-5.	Distribusi Investor: Investor berasal dari berbagai wilayah dengan jumlah investasi yang bervariasi, menunjukkan bahwa startup memiliki daya tarik global bagi para pemodal.
+From the results of the analysis, several insights were obtained, among others:
+1.	Highest Funding by Startup: Clearwire secured the highest funding of $5.7 billion, followed by sigmacare, Facebook, Carestream, and Flipkart.
+2.	Dominant Funding Type: Venture capital is the largest funding type with a total of $14.5 billion, indicating that investors are more likely to provide long-term funding for startups that have high growth potential.
+3.	Highest Funded Industries: The Biotechnology industry had the highest funding of $41.4 billion, followed by Software and Clean Technology.
+4.	Most Startups Are Still Operating: Out of a total of 34,823 startups, about 85.5% are still in operation, while the rest have been acquired or closed.
+5.	Investor Distribution: Investors come from different regions with varying investment amounts, showing that startups have a global appeal to financiers.
 ________________________________________
 Advice
-Proyek ini masih dapat dikembangkan lebih lanjut dengan beberapa pendekatan berbasis machine learning, seperti:
-1.	Prediksi Keberhasilan Startup: Menggunakan model machine learning untuk memprediksi kemungkinan sukses atau kegagalan suatu startup berdasarkan pola pendanaan, industri, dan faktor lainnya.
-2.	Segmentasi Investor: Menggunakan clustering untuk mengelompokkan investor berdasarkan pola investasi dan preferensi sektor.
-3.	Rekomendasi Pendanaan: Mengembangkan sistem rekomendasi untuk membantu startup mendapatkan investor yang paling sesuai berdasarkan data historis.
-4.	Keterbatasan Data Historis: Karena data yang digunakan hanya sampai tahun 2014, terdapat keterbatasan dalam analisis tren terbaru dan peramalan untuk masa depan. Oleh karena itu, dashboard ini lebih cocok digunakan untuk pelatihan analisis data dibandingkan untuk pengambilan keputusan bisnis real-time.
-5.	Pembaruan Dataset: Jika ingin digunakan untuk analisis yang lebih akurat dan real-time, perlu dilakukan pembaruan dataset dengan data terbaru untuk mencerminkan tren investasi dan perkembangan startup terkini.
-Dengan pengembangan lebih lanjut, proyek ini dapat memberikan wawasan yang lebih mendalam dan menjadi alat bantu strategis bagi investor dan startup dalam pengambilan keputusan bisnis.
-
+This project can still be further developed with several machine learning-based approaches, such as:
+1.	Startup Sustainability Prediction: Using machine learning models to predict the likelihood of success or failure of a startup based on funding patterns, industry, and other factors.
+2.	Investor Segmentation: Using clustering to categorize investors based on investment patterns and sector preferences.
+3.	Funding Recommendation: Develop a recommendation system to help startups find the most suitable investors based on historical data.
+4.	Limitations of Historical Data: Since the data used is only up to 2014, there are limitations in analyzing recent trends and forecasting for the future. Therefore, this dashboard is more suitable for data analysis training than for real-time business decision making.
+5.	Dataset Update: If it is to be used for more accurate and real-time analysis, it is necessary to update the dataset with the latest data to reflect the latest investment trends and startup developments.
+With further development, this project can provide deeper insights and become a strategic tool for investors and startups in making business decisions.
+________________________________________
 
