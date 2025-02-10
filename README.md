@@ -33,4 +33,5 @@ This project can still be further developed with several machine learning-based 
 5.	Dataset Update: If it is to be used for more accurate and real-time analysis, it is necessary to update the dataset with the latest data to reflect the latest investment trends and startup developments.
 With further development, this project can provide deeper insights and become a strategic tool for investors and startups in making business decisions.
 ________________________________________
-
+if you have any suggestion or feedback for me to improve, please feel free to contact me in direct message on LinkedIn and Email: linkedin.com/in/izzan-arimi/ and arimi.izzan@gmail.com
+#Global_Startup #Tableau
